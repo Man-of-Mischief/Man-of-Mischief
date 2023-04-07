@@ -10,6 +10,24 @@ I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I a
 
 **Python Development**: I'm comfortable with Python and have developed several applications using Python.
 
+**Technical Support**: In addition to my skills in AWS, Linux administration, and Python development, I'm also experienced in providing technical support. I have helped users troubleshoot issues with their hardware and software, provided remote assistance, and managed support tickets to ensure timely resolution.
+**My technical support skills include:**
+
+Providing excellent customer service and communication skills, both verbal and written.
+Troubleshooting technical issues, identifying root causes, and proposing solutions.
+Documenting technical issues and solutions for future reference.
+Working with cross-functional teams to resolve complex technical issues.
+
+## Social Media Handling
+In addition to my technical and artistic skills, I'm also experienced in social media handling. I've managed social media accounts for IITD central government projects, including creating and scheduling posts, responding to comments and messages, and analyzing performance metrics.
+
+My social media management skills include:
+
+Creating engaging and relevant content for various social media platforms, including Linkedin, Twitter, Facebook, and Instagram.
+Developing social media strategies to increase engagement, followers, and overall visibility.
+Analyzing social media metrics to track performance and identify areas for improvement.
+Responding to comments and messages in a timely and professional manner.
+
 ## Contact Me
 
 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="nidhinbabukuttan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nidhinbabukuttan?trk=profile-badge">Nidhin B</a></div>
