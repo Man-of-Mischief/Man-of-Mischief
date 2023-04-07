@@ -29,85 +29,15 @@ My technical support skills include:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhinbabukuttan/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Man-of-Mischief/)
 
+## Skillset
 
-
-<section class="resume-section" id="skillsets">
-  <div class="resume-section-content">
-    <h2 class="mb-5">Skillsets</h2>
-    <div class="row">
-      <div class="col-md-3 col-sm-6">
-        <div class="skill-icon">
-          <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
-          <div class="overlay">
-            <a href="#">
-              <div class="text">Python</div>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="skill-icon">
-          <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux">
-          <div class="overlay">
-            <a href="#">
-              <div class="text">Linux</div>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="skill-icon">
-          <img src="https://img.icons8.com/color/96/000000/red-hat.png" alt="Red Hat">
-          <div class="overlay">
-            <a href="#">
-              <div class="text">Red Hat</div>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="skill-icon">
-          <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS">
-          <div class="overlay">
-            <a href="#">
-              <div class="text">AWS</div>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="skill-icon">
-          <img src="https://img.icons8.com/color/96/000000/server.png" alt="Servers">
-          <div class="overlay">
-            <a href="#">
-              <div class="text">Servers</div>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="skill-icon">
-          <img src="https://img.icons8.com/color/96/000000/ubuntu.png" alt="Ubuntu">
-          <div class="overlay">
-            <a href="#">
-              <div class="text">Ubuntu</div>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="skill-icon">
-          <img src="https://img.icons8.com/color/96/000000/windows-logo.png" alt="Windows">
-          <div class="overlay">
-            <a href="#">
-              <div class="text">Windows</div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></a>
+  <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/></a>
+  <a href="https://www.redhat.com/en"><img src="https://img.icons8.com/color/48/000000/red-hat.png" alt="Red Hat"/></a>
+  <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/></a>
+</p>
 
 
