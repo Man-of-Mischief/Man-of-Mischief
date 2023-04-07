@@ -31,15 +31,83 @@ My technical support skills include:
 
 ## Skillsets
 
-[![DevOps](https://img.shields.io/badge/-DevOps-gray?style=flat-square&logo=devops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)](https://www.redhat.com/)
-[![Servers](https://img.shields.io/badge/-Servers-007ACC?style=flat-square&logo=servers&logoColor=white)](https://en.wikipedia.org/wiki/Server_(computing))
-[![Cloud](https://img.shields.io/badge/-Cloud-0080FF?style=flat-square&logo=cloud&logoColor=white)](https://en.wikipedia.org/wiki/Cloud_computing)
-[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+<section class="resume-section" id="skillsets">
+  <div class="resume-section-content">
+    <h2 class="mb-5">Skillsets</h2>
+    <div class="row">
+      <div class="col-md-3 col-sm-6">
+        <div class="skill-icon">
+          <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
+          <div class="overlay">
+            <a href="#">
+              <div class="text">Python</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="skill-icon">
+          <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux">
+          <div class="overlay">
+            <a href="#">
+              <div class="text">Linux</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="skill-icon">
+          <img src="https://img.icons8.com/color/96/000000/red-hat.png" alt="Red Hat">
+          <div class="overlay">
+            <a href="#">
+              <div class="text">Red Hat</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="skill-icon">
+          <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS">
+          <div class="overlay">
+            <a href="#">
+              <div class="text">AWS</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="skill-icon">
+          <img src="https://img.icons8.com/color/96/000000/server.png" alt="Servers">
+          <div class="overlay">
+            <a href="#">
+              <div class="text">Servers</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="skill-icon">
+          <img src="https://img.icons8.com/color/96/000000/ubuntu.png" alt="Ubuntu">
+          <div class="overlay">
+            <a href="#">
+              <div class="text">Ubuntu</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="skill-icon">
+          <img src="https://img.icons8.com/color/96/000000/windows-logo.png" alt="Windows">
+          <div class="overlay">
+            <a href="#">
+              <div class="text">Windows</div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 
