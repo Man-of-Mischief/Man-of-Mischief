@@ -11,7 +11,7 @@ I have extensive experience in AWS cloud services such as EC2, S3, Route53, VPC 
 I'm proficient in Linux administration and have experience in managing Linux servers, troubleshooting issues, and deploying applications on Linux.
 
 ### Python Development 
-I'm comfortable with Python and have developed several applications using Python.
+I'm comfortable with Python and have developed few small applications using Python.
 
 ### Technical Support 
 In addition to my skills in AWS, Linux administration, and Python development, I'm also experienced in providing technical support. I have helped users troubleshoot issues with their hardware and software, provided remote assistance, and managed support tickets to ensure timely resolution.
