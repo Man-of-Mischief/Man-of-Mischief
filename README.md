@@ -5,7 +5,7 @@ I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I a
 ## Skills and Expertise
 
 ### AWS Cloud 
-I have extensive experience in AWS cloud services such as EC2, S3, Lambda, RDS, and more. I'm also familiar with AWS CLI.
+I have extensive experience in AWS cloud services such as EC2, S3, Route53, VPC and more. I'm also familiar with AWS CLI.
 
 ### Linux Administration 
 I'm proficient in Linux administration and have experience in managing Linux servers, troubleshooting issues, and deploying applications on Linux.
