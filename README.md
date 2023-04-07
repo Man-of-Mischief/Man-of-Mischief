@@ -17,5 +17,6 @@ LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size
 
 ## Hobbies and Interests
 Apart from my work, I'm interested in football, cricket, and games. In my free time, I enjoy playing football and cricket with my friends and colleagues. I'm also an avid gamer and enjoy playing games on my PC and mobile.
+I'm also passionate about drawing people. I enjoy the challenge of capturing people's features and expressions in a unique way, and I've been practicing my drawing skills for several years.Some of my recent works can be found on my Linkedin page, where I occasionally post my latest creations. You can find it on my Linkedin account 👆.
 
-Feel free to explore my GitHub repositories and reach out to me if you have any questions or suggestions.
+Feel free to explore my GitHub repositories and Linkedin account and reach out to me if you have any questions or suggestions.
