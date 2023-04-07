@@ -43,4 +43,9 @@ My technical support skills include:
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/></a>
 </p>
 
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Man-of-Mischief&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+</p>
 
