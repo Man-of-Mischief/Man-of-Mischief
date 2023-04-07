@@ -11,7 +11,6 @@ I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I a
 **Python Development**: I'm comfortable with Python and have developed several applications using Python.
 
 ## Contact Me
-Email: nidhinbabukuttan@gmail.com
 
 LinkedIn:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="nidhinbabukuttan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nidhinbabukuttan?trk=profile-badge">Nidhin B</a></div>
               
