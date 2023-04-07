@@ -15,8 +15,11 @@ I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I a
 **My technical support skills include:**
 
 Providing excellent customer service and communication skills, both verbal and written.
+
 Troubleshooting technical issues, identifying root causes, and proposing solutions.
+
 Documenting technical issues and solutions for future reference.
+
 Working with cross-functional teams to resolve complex technical issues.
 
 ## Social Media Handling
