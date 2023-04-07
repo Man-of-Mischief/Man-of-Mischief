@@ -23,25 +23,23 @@ My technical support skills include:
 - Documenting technical issues and solutions for future reference.
 - Working with cross-functional teams to resolve complex technical issues.
 
-### Social Media Handling 
-In addition to my technical and artistic skills, I'm also experienced in social media handling. I've managed social media accounts for IITD central government projects, including creating and scheduling posts, responding to comments and messages, and analyzing performance metrics.
+## Social Media Profiles
 
-My social media management skills include:
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Nidhin_B_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhinbabukuttan/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Man-of-Mischief/)
 
-- Creating engaging and relevant content for various social media platforms, including Linkedin, Twitter, Facebook, and Instagram. 
-- Developing social media strategies to increase engagement, followers, and overall visibility.
-- Analyzing social media metrics to track performance and identify areas for improvement.
-- Responding to comments and messages in a timely and professional manner.
+## Skillsets
 
-## Contact Me
+[![DevOps](https://img.shields.io/badge/-DevOps-gray?style=flat-square&logo=devops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)](https://www.redhat.com/)
+[![Servers](https://img.shields.io/badge/-Servers-007ACC?style=flat-square&logo=servers&logoColor=white)](https://en.wikipedia.org/wiki/Server_(computing))
+[![Cloud](https://img.shields.io/badge/-Cloud-0080FF?style=flat-square&logo=cloud&logoColor=white)](https://en.wikipedia.org/wiki/Cloud_computing)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nidhinbabukuttan/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Man-of-Mischief/)
 
-## Hobbies and Interests
-
-Apart from my work, I'm interested in football, cricket, and games. In my free time, I enjoy playing football and cricket with my friends and colleagues. I'm also an avid gamer and enjoy playing games on my PC and mobile. I'm also passionate about drawing people. I enjoy the challenge of capturing people's features and expressions in a unique way, and I've been practicing my drawing skills for several years. Some of my recent works can be found on my LinkedIn page, where I occasionally post my latest creations.
-
-## GitHub Statistics
-
-![Nidhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Man-of-Mischief&show_icons=true&theme=dark)
