@@ -11,6 +11,7 @@ I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I a
 **Python Development**: I'm comfortable with Python and have developed several applications using Python.
 
 **Technical Support**: In addition to my skills in AWS, Linux administration, and Python development, I'm also experienced in providing technical support. I have helped users troubleshoot issues with their hardware and software, provided remote assistance, and managed support tickets to ensure timely resolution.
+
 **My technical support skills include:**
 
 Providing excellent customer service and communication skills, both verbal and written.
