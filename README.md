@@ -29,7 +29,7 @@ My technical support skills include:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhinbabukuttan/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Man-of-Mischief/)
 
-## Skillsets
+
 
 <section class="resume-section" id="skillsets">
   <div class="resume-section-content">
