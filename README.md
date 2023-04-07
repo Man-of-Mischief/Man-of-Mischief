@@ -1,4 +1,4 @@
-# Hi there, I'm Nidhin B wave 👋
+# Hi there, I'm Nidhin 👋
 
 I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I also have experience in Python development and have created some small applications that are available on GitHub.
 
