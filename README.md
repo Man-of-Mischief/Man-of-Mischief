@@ -23,16 +23,6 @@ My technical support skills include:
 - Documenting technical issues and solutions for future reference.
 - Working with cross-functional teams to resolve complex technical issues.
 
-## Social Media Profiles
-
-<p align="center">
-  <a href="https://twitter.com/Nidhin_B_"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://github.com/Man-of-Mischief/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/nidhinbabukuttan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://nidhinbabukuttan.blogspot.com/"><img src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blogger"/></a>
-</p>
-
-
 ## Skillset
 
 <p align="center">
@@ -43,6 +33,16 @@ My technical support skills include:
   <a href="https://www.redhat.com/en"><img src="https://img.icons8.com/color/48/000000/red-hat.png" alt="Red Hat"/></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/></a>
 </p>
+
+## Social Media Profiles
+
+<p align="center">
+  <a href="https://twitter.com/Nidhin_B_"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://github.com/Man-of-Mischief/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nidhinbabukuttan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://nidhinbabukuttan.blogspot.com/"><img src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blogger"/></a>
+</p>
+
 
 ## My GitHub Stats
 
