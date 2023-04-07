@@ -1,4 +1,5 @@
-**Hello, I'm Nidhin B**👋
+**Hello, I'm Nidhin B 👋**
+
 I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I also have experience in Python development and have created some small applications that are available on GitHub.
 
 **Skills and Expertise**
@@ -11,7 +12,8 @@ I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I a
 
 **Contact Me**
 Email: nidhinbabukuttan@gmail.com
-LinkedIn: linkedin.com/in/your-linkedin-profile
+LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="nidhinbabukuttan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nidhinbabukuttan?trk=profile-badge">Nidhin B</a></div>
+              
 
 **Hobbies and Interests**
 Apart from my work, I'm interested in football, cricket, and games. In my free time, I enjoy playing football and cricket with my friends and colleagues. I'm also an avid gamer and enjoy playing games on my PC and mobile.
