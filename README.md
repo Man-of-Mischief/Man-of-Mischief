@@ -25,9 +25,12 @@ My technical support skills include:
 
 ## Social Media Profiles
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Nidhin_B_)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhinbabukuttan/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Man-of-Mischief/)
+<p align="center">
+  <a href="https://twitter.com/Nidhin_B_"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://github.com/Man-of-Mischief/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nidhinbabukuttan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
 
 ## Skillset
 
