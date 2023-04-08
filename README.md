@@ -67,7 +67,7 @@ My technical support skills include:
   <a href="https://jupyter.org/"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="48"/></a>
 </p>
 
-## Operating Systems Iam good with 😈
+## Operating Systems
 
 <p>
   <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/></a>
@@ -79,7 +79,7 @@ My technical support skills include:
   <a href="https://www.android.com/"><img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android"/></a>
 </p>
 
-## Social Media Profiles- Follow me.. 📲
+## Social Media Profiles 📲
 
 <p>
   <a href="https://twitter.com/Nidhin_B_"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
