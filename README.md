@@ -1,3 +1,7 @@
+
+![banner](https://github.com/Man-of-Mischief/Man-of-Mischief/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
+
+
 # Hi there, I'm Nidhin 👋
 
 I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I also have experience in Python development and have created some small applications that are available on GitHub.
