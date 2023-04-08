@@ -28,25 +28,55 @@ My technical support skills include:
 
 ## Skillset
 
-<p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
+## Languages
+
+<p>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Scripting"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/></a>
+</p>
+
+## Tools
+
+<p>
+    <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></a>
+    <a href="https://www.atlassian.com/software/jira"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/></a>
+    <a href="https://github.com/"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+    <a href="https://www.office.com/"><img src="https://img.icons8.com/color/48/000000/office-365.png" alt="Office 365 Apps"/></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel"/></a>
+</p>
+
+## Cloud
+
+<p>
+    <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
+    <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"/></a>
+</p>
+
+## Databases
+
+<p>
+  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
+</p>
+
+## IDEs
+<p>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
+  <a href="https://jupyter.org/"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="48"/></a>
+</p>
+
+## Operating Systems
+
+<p>
   <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/></a>
   <a href="https://www.redhat.com/en"><img src="https://img.icons8.com/color/48/000000/red-hat.png" alt="Red Hat"/></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/></a>
   <a href="https://www.apple.com/macos/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1200px-Apple_logo_black.svg.png" alt="macOS" width="48"/></a>
-  <a href="https://www.office.com/"><img src="https://img.icons8.com/color/48/000000/office-365.png" alt="Office 365 Apps"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/></a>
-  <a href="https://github.com/"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Scripting"/></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/></a>
 </p>
 
 ## Social Media Profiles
 
-<p align="center">
+<p>
   <a href="https://twitter.com/Nidhin_B_"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://github.com/Man-of-Mischief/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/nidhinbabukuttan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
