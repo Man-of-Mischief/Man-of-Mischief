@@ -44,9 +44,11 @@ My technical support skills include:
     <a href="https://github.com/"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
     <a href="https://www.office.com/"><img src="https://img.icons8.com/color/48/000000/office-365.png" alt="Office 365 Apps"/></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel"/></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v2.png" alt="Microsoft PowerPoint"/></a>
+    <a href="https://en.wikipedia.org/wiki/Cmd.exe"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Command Prompt (CMD)"/></a>
 </p>
 
-## Cloud
+## Cloud Platforms
 
 <p>
     <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
@@ -65,16 +67,19 @@ My technical support skills include:
   <a href="https://jupyter.org/"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="48"/></a>
 </p>
 
-## Operating Systems
+## Operating Systems Iam good with 😈
 
 <p>
   <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/></a>
   <a href="https://www.redhat.com/en"><img src="https://img.icons8.com/color/48/000000/red-hat.png" alt="Red Hat"/></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/></a>
   <a href="https://www.apple.com/macos/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1200px-Apple_logo_black.svg.png" alt="macOS" width="48"/></a>
+  <a href="https://www.unix.org/"><img src="https://img.icons8.com/color/48/000000/unix.png" alt="Unix"/></a>
+  <a href="https://www.debian.org/"><img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian"/></a>
+  <a href="https://www.android.com/"><img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android"/></a>
 </p>
 
-## Social Media Profiles
+## Social Media Profiles- Follow me.. 📲
 
 <p>
   <a href="https://twitter.com/Nidhin_B_"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
