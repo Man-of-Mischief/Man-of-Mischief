@@ -11,6 +11,9 @@ I'm a DevOps engineer with a passion for AWS cloud and Linux administration. I a
 ### AWS Cloud 
 I have extensive experience in AWS cloud services such as EC2, S3, Route53, VPC and more. I'm also familiar with AWS CLI.
 
+### Terraform
+I have experience using Terraform to manage infrastructure as code. I can write Terraform configuration files to define infrastructure resources such as virtual machines, vpc creation, and networking components on AWS. Additionally, I can leverage Terraform modules and providers to simplify infrastructure management and ensure best practices are followed.
+
 ### Linux Administration 
 I'm proficient in Linux administration and have experience in managing Linux servers, troubleshooting issues, and deploying applications on Linux.
 
