@@ -46,6 +46,9 @@ My technical support skills include:
     <a href="https://www.atlassian.com/software/jira"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/></a>
     <a href="https://github.com/"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
     <a href="https://aws.amazon.com/s3/"><img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="Amazon S3"/></a>
+    <a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
+    <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a>
+    <a href="https://www.ansible.com/"><img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/></a>
     <a href="https://www.office.com/"><img src="https://img.icons8.com/color/48/000000/office-365.png" alt="Office 365 Apps"/></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel"/></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v2.png" alt="Microsoft PowerPoint"/></a>
