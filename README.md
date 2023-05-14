@@ -35,6 +35,7 @@ My technical support skills include:
 
 <p>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+  <a href="https://www.json.org/"><img src="https://img.icons8.com/color/48/000000/json.png" alt="JSON"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Scripting"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/></a>
 </p>
