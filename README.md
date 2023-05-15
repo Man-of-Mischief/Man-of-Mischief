@@ -1,5 +1,8 @@
 
-![banner](https://github.com/Man-of-Mischief/Man-of-Mischief/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
+<!-- Coding Geek Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Geek" />
+</p>
 
 
 # Hi there, I'm Nidhin 👋
