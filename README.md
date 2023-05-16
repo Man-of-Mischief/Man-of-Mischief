@@ -97,3 +97,10 @@ My technical support skills include:
   <a href="https://www.linkedin.com/in/nidhinbabukuttan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://nidhinbabukuttan.blogspot.com/"><img src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blogger"/></a>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/Man-of-Mischief">
+    <img src="https://github-readme-stats.vercel.app/api?username=Man-of-Mischief" alt="Your GitHub stats">
+  </a>
+</p>
