@@ -69,6 +69,7 @@ My technical support skills include:
 
 <p>
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"></a>
 </p>
 
 ## IDEs
