@@ -93,11 +93,12 @@ My technical support skills include:
 
 <p>
   <a href="https://twitter.com/Nidhin_B_"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://github.com/Man-of-Mischief/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/nidhinbabukuttan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://nidhinbabukuttan.blogspot.com/"><img src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blogger"/></a>
+  <a href="mailto:nidhinbabukuttan@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"></a>
 </p>
 
+## Github Statistics
 
 <p align="center">
   <a href="https://github.com/Man-of-Mischief">
