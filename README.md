@@ -1,15 +1,14 @@
-
-<!-- Coding Geek Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding Geek" />
-</p>
-
 # Welcome to My GitHub Profile! 👋
 
 ![Visitors](https://komarev.com/ghpvc/?username=Man-of-Mischief&color=blueviolet)
 [![Followers](https://img.shields.io/github/followers/Man-of-Mischief?style=social)](https://github.com/Man-of-Mischief)
 
 ...
+
+<!-- Coding Geek Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding Geek" />
+</p>
 
 ## DevOps Engineer | AWS Cloud | Linux Administration | Python Developer
 
