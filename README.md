@@ -36,9 +36,6 @@ In addition to my technical expertise, I have a proven track record in providing
 ## 🎓 Continuous Learning:
 I am a lifelong learner, always eager to stay up-to-date with the latest advancements in technology. I actively engage in professional development, attending conferences, participating in online courses, and exploring emerging trends. This mindset enables me to adapt quickly to new tools and methodologies, ensuring that I provide the best possible solutions for any given challenge.
 
-## 🌟 Passion and Commitment:
-My passion for technology and commitment to excellence drive me to deliver high-quality results. I thrive in dynamic environments, collaborating with cross-functional teams to achieve common goals. I am dedicated to continuously improving processes and optimizing performance, ensuring efficient and reliable solutions.
-
 ## ✉️ Let's Connect:
 I'm excited to collaborate on projects and explore opportunities in the realm of AWS cloud, Linux administration, and Python development. Feel free to connect with me on GitHub to explore possibilities and join me on this exciting journey!
 
