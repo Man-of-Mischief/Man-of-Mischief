@@ -56,6 +56,7 @@ I'm excited to collaborate on projects and explore opportunities in the realm of
     <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></a>
     <a href="https://www.atlassian.com/software/jira"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/></a>
     <a href="https://github.com/"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+    <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a>
     <a href="https://aws.amazon.com/s3/"><img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="Amazon S3"/></a>
     <a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
     <a href="https://www.ansible.com/"><img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/></a>
