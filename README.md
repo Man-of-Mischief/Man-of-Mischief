@@ -74,8 +74,6 @@ I'm excited to collaborate on projects and explore opportunities in the realm of
     <a href="https://www.elastic.co/kibana"><img src="https://img.icons8.com/color/48/000000/kibana.png" alt="Kibana"/></a>
 </p>
 
-## Databases
-
 ## Cloud Platforms
 
 <p>
