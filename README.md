@@ -57,6 +57,7 @@ I'm excited to collaborate on projects and explore opportunities in the realm of
     <a href="https://www.atlassian.com/software/jira"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/></a>
     <a href="https://github.com/"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
     <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a>
+    <a href="https://kubernetes.io/"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/></a>
     <a href="https://aws.amazon.com/s3/"><img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="Amazon S3"/></a>
     <a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
     <a href="https://www.ansible.com/"><img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/></a>
@@ -65,6 +66,15 @@ I'm excited to collaborate on projects and explore opportunities in the realm of
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v2.png" alt="Microsoft PowerPoint"/></a>
     <a href="https://en.wikipedia.org/wiki/Cmd.exe"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Command Prompt (CMD)"/></a>
 </p>
+
+## Monitoring Tools
+
+<p>
+    <a href="https://grafana.com/"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana"/></a>
+    <a href="https://www.elastic.co/kibana"><img src="https://img.icons8.com/color/48/000000/kibana.png" alt="Kibana"/></a>
+</p>
+
+## Databases
 
 ## Cloud Platforms
 
