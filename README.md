@@ -114,7 +114,6 @@ I'm excited to collaborate on projects and explore opportunities in the realm of
   <a href="https://www.linkedin.com/in/nidhinbabukuttan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/Man-of-Mischief"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://medium.com/@nidhinbabukuttan"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium"/></a>
-  <a href="https://nidhinbabukuttan.blogspot.com/"><img src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blogger"/></a>
   <a href="mailto:nidhinbabukuttan@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"></a>
 </p>
 
