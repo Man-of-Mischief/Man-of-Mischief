@@ -61,6 +61,9 @@ I'm excited to collaborate on projects and explore opportunities in the realm of
     <a href="https://aws.amazon.com/s3/"><img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="Amazon S3"/></a>
     <a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
     <a href="https://www.ansible.com/"><img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/></a>
+    <a href="https://coolify.io/"><img src="https://img.icons8.com/color/48/000000/coolify.png" alt="Coolify"/></a>
+    <a href="https://supabase.com/"><img src="https://img.icons8.com/color/48/000000/supabase.png" alt="Supabase"/></a>
+    <a href="https://www.cursor.so/"><img src="https://img.icons8.com/color/48/000000/ai.png" alt="Cursor AI Editor"/></a>
     <a href="https://www.office.com/"><img src="https://img.icons8.com/color/48/000000/office-365.png" alt="Office 365 Apps"/></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel"/></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v2.png" alt="Microsoft PowerPoint"/></a>
@@ -79,6 +82,7 @@ I'm excited to collaborate on projects and explore opportunities in the realm of
 <p>
     <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
     <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"/></a>
+    <a href="https://www.hetzner.com/cloud"><img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Hetzner Cloud"/></a>
 </p>
 
 ## Databases
